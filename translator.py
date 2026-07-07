@@ -1,7 +1,6 @@
 from openai import OpenAI
 from config import NVIDIA_API_KEY, BASE_URL, MODEL_NAME
 
-# Create the NVIDIA client
 client = OpenAI(
     base_url=BASE_URL,
     api_key=NVIDIA_API_KEY,

@@ -43,13 +43,13 @@ bash
 streamlit run app.py
 
 
-Project Structure
+## AI-Project Structure
 
-AI-Language-Translator/
-│
-├── app.py
-├── translator.py
-├── config.py
-├── requirements.txt
-├── README.md
-└── .env
+AI-Language-Translator
+
+-app.py
+-translator.py
+-config.py
+-requirements.txt
+-README.md
+-.env
